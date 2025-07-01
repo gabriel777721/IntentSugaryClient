@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  beckground-color: #f3f3f3;
+}
+
+h1{
+  color: #333;
+}
+
+nav a {
+   margin-right: 15px;
+  text-decoration: nome;
+  color: blue; 
+  font-weight: bold:
+}
+
+nav a:hover{
+  color: red;
+  text-decoration: underline;
+}
+
+button{
+  background-color: #4cAF50;
+  color: white;
+  border: nome;
+  padding: 8px 12px;
+  cursor: pointer; 
+}
+  button:hover{
+    background-color: #45a049;
+  }
+
+p {
+  color:#000;
+}
+
